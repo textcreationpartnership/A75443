@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the Scots declaration. Or, a survey of a paper presented to the Parliament of England, with the title of seven demands, from the estates of Scotland. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75443</idno>
+            <idno type="STC">Wing A3443</idno>
+            <idno type="STC">Thomason E442_1</idno>
+            <idno type="STC">ESTC R204687</idno>
+            <idno type="EEBO-CITATION">99864152</idno>
+            <idno type="PROQUEST">99864152</idno>
+            <idno type="VID">116374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116374)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E442[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the Scots declaration. Or, a survey of a paper presented to the Parliament of England, with the title of seven demands, from the estates of Scotland. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>by T.B.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Seven propositions sent from the Parliament of Scotland to the Parliament of England.</note>
+                  <note>Annotation on Thomason copy: "May. 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seven propositions sent from the Parliament of Scotland to the Parliament of England.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116374:1"/>
+            <pb facs="tcp:116374:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO THE Scots Declaration.</p>
+            <p>
+               <hi>OR,</hi> A SURVEY OF A PAPER preſented to the <hi>Parliament</hi> of ENGLAND, with the Title of ſeven DEMANDS, From the ESTATES of <hi>Scotland.</hi>
+            </p>
+            <q xml:lang="lat">
+               <l>Ad generum Cereris ſine caede &amp; ſanguine pauci</l>
+               <l>Deſcendunt Reges &amp; ſicca morte Tyranni.</l>
+            </q>
+            <p>Publiſhed by Authority.</p>
+            <p>Imprinted at <hi>London</hi> by <hi>T. B.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116374:2"/>
+            <pb n="1" facs="tcp:116374:2"/>
+            <head>AN ANSWER TO THE <hi>SCOTS</hi> DECLARATION.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is none I ſuppoſe ſo little acquainted with the affairs of men, that can be igno<g ref="char:EOLhyphen"/>rant how great a difference there often hap<g ref="char:EOLhyphen"/>pens between Common-wealths, although of one <hi>Clime,</hi> one mold nay, the ſame cu<g ref="char:EOLhyphen"/>ſtomes; for there is a Genious of every peo<g ref="char:EOLhyphen"/>ple, which elevates or depreſſes them in de<g ref="char:EOLhyphen"/>ſpight of all blandiſments or frowns of fortune, and renders them by that (perhaps) ſolely diſtinguiſhable from their neigh<g ref="char:EOLhyphen"/>bours, with whom ſcituation, time and government had ren<g ref="char:EOLhyphen"/>dred them abſolutely conformable.</p>
+            <p>Some there are (nor want there either ancient Hiſtories) or more modernexamples, that at the leaſt diſcomfiture let fall their ſpirits, and can never re-inforce them again, although courted by the faireſt opportunities: others there are that grow by their loſſes, and by a noble diſdain gain courage by overthrowes, and trample over fortune in the midſt of their oppoſitions: ſome there are that learn inſolence of victory, and then grow higheſt in their Demands, when they think they are moſt ſafe: others, that bravely ſtanding on their own baſe, continue the ſame, and ſcorn to be elevated by that they can<g ref="char:EOLhyphen"/>not cal their own: ſome, that taking advantage of their preſent diſtreſſe with whom they have to deal, grow at that inſtant pe<g ref="char:EOLhyphen"/>remptory, whereof before they durſt not have muttered o<g ref="char:EOLhyphen"/>thers,
+<pb n="2" facs="tcp:116374:3"/>that meeting with ſuch petulant boldneſſes, con<g ref="char:EOLhyphen"/>ceive their notice till it appear in revenge.</p>
+            <p>For the two former caſes, as they have been largely ſhewn here anong our ſelves. The reſolution, conſtancy and gallantry of the Parliament (who have reſcued what our Anceſtors never could) being never to be forgotten, ſo is there not wanting a very pertinent example to their caſe in our Neighbours the <hi>Scots,</hi> a people (it cannot be deni<g ref="char:EOLhyphen"/>ed) very ſtirring, active and worthy (if there had not been ſuch a ſtrong concurrence of their own intereſts) as co<g ref="char:EOLhyphen"/>efficient cauſes of this great work, to be ever celebrated; but yet of ſuch a ſtrange diſtemper, that it was not enough for them to do their work with the expence of our blood and treaſure, but they muſt alſo inſinuate into our buſineſ<g ref="char:EOLhyphen"/>ſes, impoſe on us their Laws, &amp; make their Religion (ſuch as it is) ours; ſit at the helm of this Republick, make our affairs mannaged by their conduct: nay, which is more (I know not whether I ſhould laugh or bluſh at ſuch ridiculous in<g ref="char:EOLhyphen"/>ſolence) ſend Propoſitions, with the title of Demands, and that by an impeacht meſſenger to the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>I remember there is ſet down by <hi>Livy,</hi> how they of <hi>Ca<g ref="char:EOLhyphen"/>put</hi> ſeeing the <hi>Romans</hi> broken by their adverſe ſucceſſe at <hi>Cannae,</hi> diſpatch Embaſſadours unto them, to tell them, that unleſſe they would chooſe one Conſul from among them, and admit them to equality of priviledges, they might expect a revolt to <hi>Hannibal:</hi> this the <hi>Romans,</hi> ac<g ref="char:EOLhyphen"/>cording to their accuſtomed height, anſwered no other<g ref="char:EOLhyphen"/>wiſe then by the immediate expulſion of ſuch indiſcreet Meſſengers, and afterward with a ſpeedy deſtruction.</p>
+            <p>It is my wiſh (Scottiſh Nation) that this Parliament of <hi>England</hi> acted the part of the one, as ſure as you have done
+<pb n="3" facs="tcp:116374:3"/>the madneſſe of the other: For I beſeech you inform me how you came to write Lawes to us of <hi>England?</hi> or by what Scripture or Statute we owe you obedience? you were late our hirelings, and we paid you for acquiring your own Liberties, and ſuffered you to impoveriſh the fatteſt pieces of the Land, without doing any action of moment, while our ſelves ſpent our deereſt blood in ac<g ref="char:EOLhyphen"/>quiring that, which had we not gained, you had loſt all the happy freedoms yee had already obtained, and perhaps at this time (if the power of the King had been as great as his malice to you) been not a people.</p>
+            <p>Or if ye claim this by ſome old title, its fit it were known, yet are accounted a wiſe people (and indeed your neceſſi<g ref="char:EOLhyphen"/>ties make you partly be ſo, and our diſtractions make you ſeem more then you are) and it is not to be thought you would loſe your tale in the telling: beſides, what needed you for ſo long a time to endeavout to mingle all your in<g ref="char:EOLhyphen"/>tereſts with ours, and by creeping into places of truſt by degrees engraft your ſelves into the Nation, and poſſeſſe that by one title; which you could not do by another.</p>
+            <p>But I ſuppoſe your madneſſe is not yet ſo high, and your ſelves will be content to walk on the left hand of us, and then you are fit to parley with, and in that capacity, I ſhall onely ſay thus much unto you.</p>
+            <p>That <hi>firſt,</hi> I conceive theſe Articles are neither the ſenſe of all, nor the better part of your Nation, but of a preva<g ref="char:EOLhyphen"/>lent malignant party, who have cauſed you: <hi>ſecondly,</hi> to break the Covenant which the Engliſh have hitherto pre<g ref="char:EOLhyphen"/>ſerved; <hi>thirdly,</hi> that theſe demands are ſuch as cannot be granted without overthrowing your intereſt: nay, ſuch as are in themſelves contradictory; and <hi>fourthly,</hi> that the Par<g ref="char:EOLhyphen"/>liament are in ſuch a condition, as they need not fear ye, in
+<pb n="4" facs="tcp:116374:4"/>caſe you ſhould ſo far both forget your ſelves and them.</p>
+            <p>For the firſt, if they be of all, here comes ſuch an ab<g ref="char:EOLhyphen"/>horrency of your Clergy in general, &amp; your beſt Patriots; How comes theſe ſad whiſperings among yee? thoſe fears of the beſt hearts, that now you are a returning to old ab<g ref="char:EOLhyphen"/>hominations? how comes the old modell the inſtrument by which your greateſt things have been hitherto done to ſtand in the gap, and defie? yet we are not ignorant of the prevalency of the Malignant, and the great ſtickling, and men notoriouſly diſaffected, thoſe ſtrange ſpeeches given out, your open harbour, and encouragements given to our Engliſh fugitives, ſundry thoſe among them who are good men, cannot but feel and ſigh at thoſe things; and if that ſpirit be yet in the Nation, which has a few yeers laſt paſt enabled them to overcome ſo many difficulteis, if the peo<g ref="char:EOLhyphen"/>ple yet hear their Miniſters, and have not abſolutely for<g ref="char:EOLhyphen"/>got their ſecurity, this cannot want oppoſition.</p>
+            <p>The ſecond, where your ſelves will prove the moſt faul<g ref="char:EOLhyphen"/>ty, you alledge againſt us, as the cauſe of the breach. Good Sirs conſider, how ſolicitous have the Parliament been both in obſerving and urging the Covenant; have they not preſt it ſo here, that their enimies object it againſt them, as greateſt piece of their tyranny, and the greateſt weight can be laid on them? can you tax them with any ſubſtan<g ref="char:EOLhyphen"/>tiall breach of it? (little litterall miſapplications we for<g ref="char:EOLhyphen"/>give yee) Nay, have they nor rather receded from their own rights, the better to demonſtrat the integrity of their intentions? elſe what need they diſmantle <hi>Berwick?</hi> a place ſo conſiderable and ſtrong, and in a manner a key to the Kingdom; why have they cal'd and maintain'd the Aſ<g ref="char:EOLhyphen"/>ſembly ſo long, the better to ſettle Religion, in the pur<g ref="char:EOLhyphen"/>ſuance of it, whileſt you pretend ever and anon breaches
+<pb n="5" facs="tcp:116374:4"/>and diſcontent, harbour fugitives, and deny to ſurrender them, though demanded by our Commiſſionens, and at laſt connive at their fur prize of <hi>Berwick,</hi> give out rumours of an invaſion; and to that purpoſe, hold and liſt Forces, and all this for fear of ſhadowes, and purſuance of <hi>Chy<g ref="char:EOLhyphen"/>mexaes.</hi>
+            </p>
+            <p>The third is not better demonſtrable then by viewing of particulars, which we ſhall doe as ſpeedily as we can poſſible, it being neither neceſſary to the truth, nor agree<g ref="char:EOLhyphen"/>ing to our leizure to dilate much.</p>
+            <p>I ſhall make this aſſertion by the way, that I ſuppoſe it had been very eaſie in ſo ſwarming a Kingdom as <hi>Scotland</hi> to have found a perſon of more quality and honour, then ſuch a fellow as <hi>Marſhall;</hi> one under their command, and threatned to be impeached for ſome high miſdemea<g ref="char:EOLhyphen"/>nours, and that with ſuch a peremptory limitation of it, as if like <hi>Pepilius,</hi> he brought them the choyce of Peace and Warre. But to come to the firſt.</p>
+            <p>That the King may come to <hi>London,</hi> or ſome of his Houſes neere the City, and there to remaine in honour, freedomo and ſafety. Was he not at <hi>Hampton Court,</hi> I wonder who ſent him to the <hi>Iſte of Wight?</hi> I wonder how much honour, freedome, or ſafety he then wanted? Your owne Commiſſioners were then contented; and if coun<g ref="char:EOLhyphen"/>ſell would have ſtaid (and either not have beleeved ſugge<g ref="char:EOLhyphen"/>ſtions, or elſe engaged himſelfe in new Deſignes) he had for ought I know, been there at this day. Beſides, how willing, nay, how deſitous have the Parliament beene to win him to a compliance? how have they leſſened their demands, that he might the better meet them halfe way, whilſt he continues obſtinate, and will not one jot recede from his owne Principles? How fraudulent and ſerpen<g ref="char:EOLhyphen"/>tine
+<pb n="6" facs="tcp:116374:5"/>are his Anſwers? What cunning Reſervations are there in them, ever for his owne advantage. Not to men<g ref="char:EOLhyphen"/>tion his frequent breach of Promiſes and Proteſtations. And would you have his power put in his hand before you know how he will uſe it? To what end have you fought and oppoſed all this while? or doe you <hi>(Scots)</hi> ſuppoſe he will forget your Miſdemeanours, as he interprets? Nay, he is a man that has <hi>graves &amp; diuturnas Iras:</hi> and that Maxime of the Poet holds generally true,
+<q xml:lang="lat">
+                  <l>—regnabit ſauguine multo</l>
+                  <l>Ad Regnum quiſquis venit ab ex illis.</l>
+               </q>
+            </p>
+            <p>Conſider, what a madneſſe it were to put the ſword in his hand againe, which you have with ſo much adoe wreſt<g ref="char:EOLhyphen"/>ed from him, till ye know how he will uſe it; let him give ſome aſſurance (by paſſing of ſome Bils) that he will be limited and reſtrained by Lawes, and preſerve our Liber<g ref="char:EOLhyphen"/>ties; and then it ſhall be our Motion: in the other caſe, your ſelves may repent yee of your forwardneſſe. How glad would the Parliament have been to have called him from the <hi>Iſle of wight,</hi> would he have but paſſed the foure Bils? But he was ſo farre from it, as with a <hi>New Elench</hi> he would make a breach between the two Nations, and ob<g ref="char:EOLhyphen"/>lige the Lord <hi>Fairfax</hi> Army unto himſelfe: Ye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yes, could he by any means diſſolve the everlaſting Parliament (as the Queene waſpiſhly cals it) then you would ſoone ſee him appeare in his owne colours, and perhaps looſe that little Reputation he has gotten of Clemency. Sirs, heare, Tis not taking away of blood that onely makes and denominates a Tyrant, there is a greater cruelty in oppreſ<g ref="char:EOLhyphen"/>ſion
+<pb n="7" facs="tcp:116374:5"/>and ſacrificing a People to ones owne ends the one may fall upon one Individuall (and that com<g ref="char:EOLhyphen"/>monly provoked by inſolence or Indiſcretion) and perhaps make a bad cauſe of good: but the other, like a quicke Contagion ſpreads univerſally, and Injures not onely them alive, but Poſterity, children unborn, nay, cancels all Obligations that are owing to the ſweat and induſtly of our noble Anceſtors; and in this acception of a Tyrant (which ſurely is the trueſt) it is not hard to find one worſe then <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> the third, although he were as bad as our com<g ref="char:EOLhyphen"/>mon Chroniclers make him.</p>
+            <p>Nor indeed is the Nation ſo inſenſible of this ine<g ref="char:EOLhyphen"/>ſtimable Jewel, ſeeing he that looks ſeriouſly through our Story, or will be content to take it in brief from <hi>N. Bacon,</hi> ſhall find, how much their ſpirits have boyl'd, how much they labour'd about that, which God preſerved for the valorous Counſels of Parlia<g ref="char:EOLhyphen"/>ment to accompliſh. But I go unto.</p>
+            <p>The ſecond: in this I beleeve you underſtand not well enough what you would have; muſt they be made to you or the King? if to you, why do you ex<g ref="char:EOLhyphen"/>pect it? or what authority have you to call us to an accompt? if to the King, though I cannot ſay he connived at it, yet his Lawyer <hi>Jenkins</hi> (that trouble<g ref="char:EOLhyphen"/>ſome man, that ſpend his laſt breath in ſowing de<g ref="char:EOLhyphen"/>bates, which he ought to do in his devotions) did openly iuſtifie it, (I warrant ye not without a wink from Authority) and ſlackt not (in a manner) to call them Saviours of the King and State; how did he elevate them, and affront the Houſes with com<g ref="char:EOLhyphen"/>pariſons,
+<pb n="8" facs="tcp:116374:6"/>and was not wanting with ſome pretext or other, to vindicate them, till that he ſaw they would not be nuzled by any Court-blandiſments, but would in deſpight of temptations, continue firm to their duties? but theſe things are paſt: and it was ye that extorted the memoration of them from me: But for matter of fact; did the Parliament ever juſtifie what was done there, did they not declare againſt it, and enquire all the Delinquents; what could they have done more? but if they be ſuch a people as need to be adviſed by you, or ought to be commanded, it is another caſe.</p>
+            <p>To the third, you have a great deſire to make us worſhip your <hi>Diana</hi> of <hi>Epheſus;</hi> for God's ſake, what reaſon can you deſire to obtrude a Government diſ<g ref="char:EOLhyphen"/>conſonant to the ſpirit and Genius of our Nation, (unleſſe ye be like maids in the green ſickneſſe, that think all ought to eat chalk as well as your ſelves.) Why Sits the Synod? we are in as faire a way as we can; If you be our Biſhops or Viſitors, ye may make us go faſter: who gives you a ſuperintendency of our conſciences? or why cannot we demean our ſelves without your tuition? though to anſwer in point of Covenant, 'tis the Government the Parlia<g ref="char:EOLhyphen"/>ment was only encouraged and countenanced hither<g ref="char:EOLhyphen"/>to, any it is in many places ſetled; and have they not lately paſſed an Ordinance againſt Sects and Schiſms? the thorns ye pretend ſtruck ſo deep in your eyes.</p>
+            <p>Although conſider, whether ever man that diſ<g ref="char:EOLhyphen"/>ſents from you in that particuler Diſcipline deſerve
+<pb n="9" facs="tcp:116374:6"/>ſuch a name, the Conſcience is a thing inviolable, and cannot be forced; and he that either ſtifles the dictates of it within himſelf, or would violently over<g ref="char:EOLhyphen"/>throw the motions of it within another, does no bet<g ref="char:EOLhyphen"/>ter then denounce War againſt Heaven, and fights againſt God; who lets not all men know all things, but makes the weakneſſes and ignorance of ſome the way to manifeſt their obedience unto him. But I re<g ref="char:EOLhyphen"/>turn to</p>
+            <p>The fourth; What's the buſineſſe with our Ar<g ref="char:EOLhyphen"/>my, a ſort of people illuſtrious by God's particular favour and mercies, and who being but an handfull of a divided people, have done more then the united force of all your Nation: if ye fear them, it ſuppo<g ref="char:EOLhyphen"/>ſes guilt in ye; if it be your tenderneſſe that they ſhould not be a burden to us, you are to buſie; your cares ſuperfluous; we know what to do, and you would write thoſe conditions to others, ye liſt not to obey your ſelves, and ſay they have nothing to do: pray what had ye to do thoſe many moneths when ye lay idely in your two expeditions to <hi>England,</hi> when you had the foreheads to demand pay of full Regi<g ref="char:EOLhyphen"/>ments for cropen broken ſquadrons of an hundred and fifty, when (to my knowledg) you made falſ muſters, and took of poor people (to whom you had more need have given ſomewhat) pay for eighty men, when you had not ſcarce twenty; we are not ſerved ſo with our Army, and if it were ſo, what buſineſſe have you with the disbanding of them.</p>
+            <p>Fiftly, that the City of <hi>London</hi> have all her Privi<g ref="char:EOLhyphen"/>ledges made good unto her: Do we ever meddle
+<pb n="10" facs="tcp:116374:7"/>with your buſineſſe at <hi>Edinburgh,</hi> or do we ſend you preſcription how to govern your (<hi>barles</hi> there? or doth the City of <hi>London</hi> want any thing which they ought to have? they muſt ſurely acknowlege themſelves Subjects, and think there is a wiſer body in this Kingdom then the Common-counſell: and how carefull (to ſpeak freely) nay how tenden hath the Parliament been in preſerving them all their juſt rights, and preventing of tumults? how ready were they to reſtore them their chains, which themſelves had deſired to be pulled down? how ready were they to remove the Lord <hi>Fairfax</hi> his Regiments from <hi>white-hall?</hi> what could they have done more, un<g ref="char:EOLhyphen"/>leſſe they would make them Lords paramounts? and ſurely if your <hi>Street</hi> of <hi>Edinburgh</hi> ſhould demand any other terms of you, you would be very unwilling that ſuch a rabble as they are (who differ as much from them at <hi>London,</hi> as your Fleſh-ſhambles at <hi>Edenburgh</hi> from the <hi>Old-exchange</hi>) ſhould be your Governours; whereas they now are patiently contented with their large meaſures of meat; and perhaps at ſolemnity; a Calves head boyl'd, and divided between two or three families.</p>
+            <p>For the fixt, <hi>That the Covenant be enjoyned:</hi> I told you of the Parliaments care already above; I adde now, that we ſee not how they can proceed any fur<g ref="char:EOLhyphen"/>ther, nor maſſacre conſciences by the impoſition of it, it being (as we alſo touched above) an affront of heaven.</p>
+            <p>For the ſeventh, that the Members of Parliament who have faithfully ſerved, be reſtored. This Propo<g ref="char:EOLhyphen"/>ſition
+<pb n="11" facs="tcp:116374:7"/>is very indiſtinct; for with what qualification ſhall choſe who have either deſerted, or have been expelled the Parliament be ſaid to have ſerved faith<g ref="char:EOLhyphen"/>fully? if it be thoſe that deſerted it at <hi>Ox<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord,</hi> your own Nationall Councell have hitherto diſclaimed them: If thoſe which for miſdemeanours have been expelled, ſurely our own wiſdom at home is ſo ſuffi<g ref="char:EOLhyphen"/>cient, as we need not fetch Oracles from you: Was here ever ſuch a demand made of a Forreigner to the Parliament of <hi>England,</hi> who hath been ſo tender in defending their own, and the repreſented peoples priviledges, that they have endured theſe long trou<g ref="char:EOLhyphen"/>bles, and with an unparalelled patience triumphed in them? And how I appeal to you, whether you be not a fraudulent people, and a people that endea<g ref="char:EOLhyphen"/>vour to ſupplant us? whether theſe Demand be not raſh and contradictory? as if God at your with draw<g ref="char:EOLhyphen"/>ing from his ſervice, withdrew his ſpirit from you, and gave you over to that madneſſe, which makes fal<g ref="char:EOLhyphen"/>ling Nations the cauſe of their own ruines.</p>
+            <p>For the fourth and laſt point, conſider with whom you are ſo bold, 'tis the Parliament of <hi>England,</hi> thoſe who have an abſolute command of a better Kingdom then your own, and numerous Diſciplined Army in the field, and the goodneſſe of Cauſe to boot, which onely, although the other two were awanting, hath ſufficed in the midſt of all their hazards and ſtraits, to render them formidably victorious: and beleeve it, God who hath hitherto blaſted the counſels of thoſe with whom ye joyn, will alſo bring to nought yours, and make you partakers of their judgements,
+<pb n="12" facs="tcp:116374:8"/>as well as ye have been of their crimes. Conſider this, there may be a time when this councell may be too late, and not by any tears or induſtry to be ren<g ref="char:EOLhyphen"/>dred opportune: Think, I ſay, what it is to revolt from your beſt Patriots, oppoſe your Clergy; and, which is moſt horrible, deſert the Cauſe of God, to which you have made ſuch glorious pretences. For my part I am one neither known for any ſeparatiſt from the Church, nor any malecontent of the State wherein I live, one abſolutely diſengaged, and there<g ref="char:EOLhyphen"/>fore deſerving perhaps to be the better heard: Nor do I ſpeak to you out of ſpleen, but love, and with that ſpirit wherewith I ſhould addeſſe my ſelf to Fa<g ref="char:EOLhyphen"/>ther, Brother, nay to my ſelfe. I wiſh you all good and Nationall proſperity, and could wiſh your Country a <hi>Canaan,</hi> and not a Wilderneſſe, that you might not need to long after this Land that flowes with Milk and Honey. But ſince Providence hath diſpoſed of you to a Clime and Soyle not ſo abſo<g ref="char:EOLhyphen"/>lutely happy, you would do well to contain your ſelves in it, and no doubt if you would, retain your children, and not to void them out as excrements to truble other Nations, you might preſently grow ſo numerous (your Bodies and Region ſo conſpiring) that you might like torrents, burſt out in ſhoales, and like the <hi>Goths</hi> and <hi>Vandals</hi> your Predeceſſors, over<g ref="char:EOLhyphen"/>flow the richeſt and fatteſt piecees of the habitable earth.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116374:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
